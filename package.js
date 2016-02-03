@@ -1,6 +1,6 @@
 Package.describe({
 	name         : 'dnimon:notifications',
-	version      : '0.1.7',
+	version      : '0.1.8',
 	// Brief, one-line summary of the package.
 	summary      : 'Simple custom notifications for Meteor app',
 	// URL to the Git repository containing the source code for this package.
